@@ -1,4 +1,5 @@
-#Wireless Temperature-Controlled Fan System
+# Wireless Temperature-Controlled Fan System
+
 This project involves developing a prototype for a device that controls the speed of a 12V fan based on the room temperature. The system can also be monitored and controlled wirelessly using a mobile app.
 Components
 
